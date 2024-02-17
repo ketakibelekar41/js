@@ -2,4 +2,4 @@
 <br>
 my first js file
 <br>
-auther - royal ray
+auther - royal ray(javascript)
